@@ -1,1 +1,22 @@
+body{
+	background-image:url("img.png");
+	background-size:cover;
+}
+
+button:hover{
+	color:blue;
+	background-color:magenta;
+}
+
+.App{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+	
+}
+
+#er{
+	color:red;
+}
 
